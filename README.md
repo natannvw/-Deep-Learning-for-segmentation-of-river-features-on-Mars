@@ -10,3 +10,5 @@ Dataset:
 Training:
   1. U-Net: Semantic segmentation with PyTorch from https://github.com/milesial/Pytorch-UNet
   2. Jupiter Colab Notebook: 'Project.ipynb'
+  
+![alt text](https://github.com/natannvw/Deep-Learning-for-segmentation-of-river-features-on-Mars/blob/main/Results%20and%20Demo/Fluvial%20features%20in%20Valles%20Marineris%2C%20Mars.png)
