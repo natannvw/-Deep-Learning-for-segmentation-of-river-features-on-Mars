@@ -5,6 +5,9 @@ Dataset:
   1. For the images: NASA's Mars Reconnaissance Orbiter (MRO) Context Camera (CTX) layer in ArcGIS Pro.
   2. For the true mask: used the layer of vector layer of "Global map of Martian fluvial systems" from https://zenodo.org/record/1051038
   3. Pre-processing to create datasets: ArcPy in ArcGIS Pro and Matlab.
+  
+  ![alt text](https://github.com/natannvw/Deep-Learning-for-segmentation-of-river-features-on-Mars/blob/main/Results%20and%20Demo/Screenshot%20Arc%20GIS%20Pro.png)
+  
   4. You can download the ready and processed data from here: https://drive.google.com/file/d/14mle3rW7hNJK9a-kuSr5Wtk52_DHCW3z/view?usp=sharing
 
 Training:
