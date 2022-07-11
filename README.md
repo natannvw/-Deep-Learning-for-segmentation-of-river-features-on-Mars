@@ -15,3 +15,9 @@ Segmentation for mapping of river features over the whole planet of Mars, using 
   2. Jupiter Colab Notebook: 'Project.ipynb'
   
 ![alt text](https://github.com/natannvw/Deep-Learning-for-segmentation-of-river-features-on-Mars/blob/main/Results%20and%20Demo/Fluvial%20features%20in%20Valles%20Marineris%2C%20Mars.png)
+
+# Prediction:
+  1. in the Jupiter Colab Notebook: 'Project.ipynb', you can use the  "!python predict.py -m TrainedModel.pth -i Image.jpg"
+  2. You can download my traind from here: https://drive.google.com/file/d/1WBVVjqn_kxrn8c8TfAsyVN75lRp-Dkab/view?usp=sharing
+     and for example one of the images from "Results and Demo" folder here, for example "FID_2589.jpg" or "Valles Marineris, Mars.jpg"
+![alt text](https://github.com/natannvw/Deep-Learning-for-segmentation-of-river-features-on-Mars/blob/main/Results%20and%20Demo/Valles%20Marineris%2C%20Mars.jpg)
