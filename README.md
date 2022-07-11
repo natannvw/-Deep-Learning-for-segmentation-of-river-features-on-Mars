@@ -9,7 +9,10 @@ Segmentation for mapping of river features over the whole planet of Mars, using 
   ![alt text](https://github.com/natannvw/Deep-Learning-for-segmentation-of-river-features-on-Mars/blob/main/Results%20and%20Demo/Screenshot%20Arc%20GIS%20Pro.png)
   
   4. You can download the ready and processed data from here: https://drive.google.com/file/d/14mle3rW7hNJK9a-kuSr5Wtk52_DHCW3z/view?usp=sharing
-
+  
+  ![alt text](https://github.com/natannvw/Deep-Learning-for-segmentation-of-river-features-on-Mars/blob/main/Results%20and%20Demo/Animated_1sec.gif)
+  (notice that the masks here are in opposite colors than for the model)
+  
 # Training:
   1. U-Net: Semantic segmentation with PyTorch from https://github.com/milesial/Pytorch-UNet
   2. Jupiter Colab Notebook: 'Project.ipynb'
